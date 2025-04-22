@@ -40,10 +40,10 @@ CI/CD, Monitoring, Kubernetes, DevOps Career Strategy
 
 ## Contact
 
-Email: [info@transformed2succeed.com](mailto:info@transformed2succeed.com)  
-LinkedIn: [https://www.linkedin.com/in/ready2assist/](https://www.linkedin.com/in/ready2assist/)  
-Medium: [https://medium.com/@here2serveyou](https://medium.com/@here2serveyou)
-Book a Call: [here4you.setmore.com](https://here4you.setmore.com)
+- *Email*: [info@transformed2succeed.com](mailto:info@transformed2succeed.com)  
+- *LinkedIn*: [https://www.linkedin.com/in/ready2assist/](https://www.linkedin.com/in/ready2assist/)  
+- *Medium*: [https://medium.com/@here2serveyou](https://medium.com/@here2serveyou)
+- *Book a Call*: [here4you.setmore.com](https://here4you.setmore.com)
 
 ---
 
