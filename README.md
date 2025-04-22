@@ -55,8 +55,8 @@ Visit: [https://github.com/Here2ServeU](https://github.com/Here2ServeU)
 
 ## Articles and Resources
 
-Blog: [Medium @emmanuelnaweji](https://medium.com/@emmanuelnaweji)  
-Resume: [Download My Resume](https://your-resume-link.com)
+**Blog:** [Medium @emmanuelnaweji](https://medium.com/@emmanuelnaweji)  
+**Resume:** [Download My Resume](https://github.com/Here2ServeU/Here2ServeU/raw/main/emmanuel-naweji-resume.pdf)
 
 ---
 
