@@ -1,7 +1,7 @@
 # Hi, I'm  
 # Emmanuel Naweji
 
-Passionate about Cloud, DevOps, and Digital Transformation  
+Passionate about *Cloud, DevOps, and Digital Transformation*  
 Helping companies modernize infrastructure and mentoring aspiring engineers to build real-world skills
 
 ---
@@ -40,8 +40,9 @@ CI/CD, Monitoring, Kubernetes, DevOps Career Strategy
 
 ## Contact
 
-Email: [emmanuel@transformed2succeed.com](mailto:emmanuel@transformed2succeed.com)  
-Website: [www.emmanueltech.io](https://www.emmanueltech.io)  
+Email: [info@transformed2succeed.com](mailto:info@transformed2succeed.com)  
+LinkedIn: [https://www.linkedin.com/in/ready2assist/](https://www.linkedin.com/in/ready2assist/)  
+Medium: [https://medium.com/@here2serveyou](https://medium.com/@here2serveyou)
 Book a Call: [here4you.setmore.com](https://here4you.setmore.com)
 
 ---
@@ -61,5 +62,5 @@ Resume: [Download My Resume](https://your-resume-link.com)
 
 ## About
 
-I turn monoliths into microservices and help pastors and professionals transition into tech.  
+### I turn monoliths into microservices and help pastors and professionals transition into tech.  
 From pulpit to pipelines, I build systems that serve people and scale businesses.
