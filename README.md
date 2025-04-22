@@ -62,5 +62,5 @@ Resume: [Download My Resume](https://your-resume-link.com)
 
 ## About
 
-### I turn monoliths into microservices and help pastors and professionals transition into tech.  
-From pulpit to pipelines, I build systems that serve people and scale businesses.
+#### I turn monoliths into microservices and help pastors and professionals transition into tech.  
+#### From pulpit to pipelines, I build systems that serve people and scale businesses.
