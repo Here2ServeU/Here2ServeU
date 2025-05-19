@@ -6,24 +6,75 @@ Helping companies modernize infrastructure and mentoring aspiring engineers to b
 
 ---
 
-## Work
+## What I Am Working On
+### 1. Monolith to Microservices Migration (AWS EKS + Azure AKS)
 
-I’m currently working on  
-**Monolith to Microservices on EKS/AKS (Multi-Cloud Project)**  
-[GitHub Repository](https://github.com/Here2ServeU/monolith-to-microservices-on-eks)
+Real-world companies are migrating from legacy monoliths to Kubernetes. Multi-cloud is hot.
 
-I’m looking to collaborate on  
-**CI/CD Template Builder for DevOps Teams**  
-[Repo & SaaS Launch Soon](https://github.com/Here2ServeU/ci-cd-template-builder)
+What this project includes:
+	•	Side-by-side comparison of monolith vs. microservices
+	•	Helm charts, ArgoCD/GitHub Actions, Terraform
+	•	Observability stack (Prometheus, Grafana, ELK)
 
-I’m looking for help with  
-**Multi-Tenant SaaS Boilerplate for DevOps Tools**  
-[Early MVP](https://github.com/Here2ServeU/multi-tenant-saas)
+**GitHub Repo**: https://github.com/Here2ServeU/monolith-to-microservices-t2s.git
+⸻
+
+### 2. CI/CD Template Generator (DevOps SaaS for Teams)
+
+Developer Experience (DevX) is exploding. Teams want automation, fast.
+
+What the project includes:
+	•	Dynamic form/UI to generate GitHub Actions, Terraform, K8s templates
+	•	Support for security scanning (Trivy, Snyk), notifications (Slack/Teams), and environments (dev/stage/prod)
+	•	Stripe integration for paid features
+
+**GitHub Repo**: Already building → ci-cd-template-builder (private) 
+
+⸻
+
+### 3. AI-Powered SRE Template Generator
+
+AI + SRE is a powerful combo. SRE is essential for mature DevOps orgs.
+
+What the project includes:
+	•	Generate SLOs, postmortems, chaos experiments
+	•	Use OpenAI API to draft markdown templates
+	•	Deploy backend on EKS with frontend on Vercel
+
+**GitHub Repo**: Already started but not accessible for everyone yet 
+
+⸻
+
+### 4. Multi-Tenant SaaS Boilerplate (Micro-SaaS DevOps Platform)
+
+SaaS devs are looking for infra-ready starter kits
+
+What the project includes:
+	•	Subdomain-per-tenant, RBAC, Stripe, JWT auth
+	•	Terraform modules for AWS/GCP deployment
+	•	Helm charts for rapid launch
+
+**GitHub Repo**: In progress → multi-tenant-saas
+
+⸻
+
+### 5. Cloud Cost Optimization Dashboard (FinOps + DevOps)
+
+Every organization wants to reduce cloud waste
+
+What this project includes:
+	•	Terraform + Infracost integration
+	•	Dashboard using React + AWS Cost Explorer APIs
+	•	Slack alerts for monthly overages
+	•	Multi-cloud support (AWS, GCP, Azure)
+
+**GitHub Repo**: https://github.com/Here2ServeU/finops-aws-azure.git 
 
 ---
 
-## Currently Learning
+## What I Am Currently Learning
 
+- Machine Learning (AI Engineering)
 - Advanced GitOps with ArgoCD and Flux
 - Kubeflow Pipelines and MLOps
 - AWS Control Tower and Landing Zones
@@ -34,7 +85,8 @@ I’m looking for help with
 ## Topics I Focus On
 
 Terraform, AWS, EKS, GitHub Actions, Cloud Security  
-CI/CD, Monitoring, Kubernetes, DevOps Career Strategy
+CI/CD, Monitoring, Kubernetes, DevOps Career Strategy,
+Machine Learning
 
 ---
 
