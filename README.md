@@ -30,8 +30,6 @@ What the project includes:
 
 **GitHub Repo**: Already building → ci-cd-template-builder (private) 
 
-⸻
-
 ### 3. AI-Powered SRE Template Generator
 
 AI + SRE is a powerful combo. SRE is essential for mature DevOps orgs.
@@ -43,8 +41,6 @@ What the project includes:
 
 **GitHub Repo**: Already started but not accessible for everyone yet 
 
-⸻
-
 ### 4. Multi-Tenant SaaS Boilerplate (Micro-SaaS DevOps Platform)
 
 SaaS devs are looking for infra-ready starter kits
@@ -55,8 +51,6 @@ What the project includes:
 	•	Helm charts for rapid launch
 
 **GitHub Repo**: In progress → multi-tenant-saas
-
-⸻
 
 ### 5. Cloud Cost Optimization Dashboard (FinOps + DevOps)
 
