@@ -1,110 +1,118 @@
-# Hi, I'm  
-# Emmanuel Naweji
+# Hi, I'm Emmanuel Naweji
 
-Passionate about *Cloud, DevOps, and Digital Transformation*  
-Helping companies modernize infrastructure and mentoring aspiring engineers to build real-world skills
+**Cloud | DevOps | SRE | FinOps | AI Engineering**  
+Helping businesses modernize infrastructure and guiding engineers into top 1% career paths through real-world projects and automation-first thinking.
 
----
-
-## What I Am Working On
-### 1. Monolith to Microservices Migration (AWS EKS + Azure AKS)
-
-Real-world companies are migrating from legacy monoliths to Kubernetes. Multi-cloud is hot.
-
-What this project includes:
-	•	Side-by-side comparison of monolith vs. microservices
-	•	Helm charts, ArgoCD/GitHub Actions, Terraform
-	•	Observability stack (Prometheus, Grafana, ELK)
-
-**GitHub Repo**: https://github.com/Here2ServeU/monolith-to-microservices-t2s.git
-⸻
-
-### 2. CI/CD Template Generator (DevOps SaaS for Teams)
-
-Developer Experience (DevX) is exploding. Teams want automation, fast.
-
-What the project includes:
-	•	Dynamic form/UI to generate GitHub Actions, Terraform, K8s templates
-	•	Support for security scanning (Trivy, Snyk), notifications (Slack/Teams), and environments (dev/stage/prod)
-	•	Stripe integration for paid features
-
-**GitHub Repo**: Already building → ci-cd-template-builder (private) 
-
-### 3. AI-Powered SRE Template Generator
-
-AI + SRE is a powerful combo. SRE is essential for mature DevOps orgs.
-
-What the project includes:
-	•	Generate SLOs, postmortems, chaos experiments
-	•	Use OpenAI API to draft markdown templates
-	•	Deploy backend on EKS with frontend on Vercel
-
-**GitHub Repo**: Already started but not accessible for everyone yet 
-
-### 4. Multi-Tenant SaaS Boilerplate (Micro-SaaS DevOps Platform)
-
-SaaS devs are looking for infra-ready starter kits
-
-What the project includes:
-	•	Subdomain-per-tenant, RBAC, Stripe, JWT auth
-	•	Terraform modules for AWS/GCP deployment
-	•	Helm charts for rapid launch
-
-**GitHub Repo**: In progress → multi-tenant-saas
-
-### 5. Cloud Cost Optimization Dashboard (FinOps + DevOps)
-
-Every organization wants to reduce cloud waste
-
-What this project includes:
-	•	Terraform + Infracost integration
-	•	Dashboard using React + AWS Cost Explorer APIs
-	•	Slack alerts for monthly overages
-	•	Multi-cloud support (AWS, GCP, Azure)
-
-**GitHub Repo**: https://github.com/Here2ServeU/finops-aws-azure.git 
+![AWS Certified](https://img.shields.io/badge/AWS-Certified-blue?logo=amazonaws)
+![Terraform](https://img.shields.io/badge/IaC-Terraform-623CE4?logo=terraform)
+![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub%20Actions-blue?logo=githubactions)
+![ArgoCD](https://img.shields.io/badge/GitOps-ArgoCD-orange?logo=argo)
+![FinOps](https://img.shields.io/badge/FinOps-Cost%20Optimization-green?logo=money)
+![OpenAI](https://img.shields.io/badge/AI-OpenAI-ff9900?logo=openai)
 
 ---
 
-## What I Am Currently Learning
+## What I'm Building
 
-- Machine Learning (AI Engineering)
-- Advanced GitOps with ArgoCD and Flux
-- Kubeflow Pipelines and MLOps
-- AWS Control Tower and Landing Zones
-- AI-Driven Infrastructure Automation
+### Monolith to Microservices Migration  
+**(AWS EKS + Azure AKS | GitOps | Observability)**  
+Modernizing legacy platforms with multi-cloud, Kubernetes, and automation.  
+- Monolith vs. Microservices side-by-side comparison  
+- Terraform, Helm, ArgoCD, GitHub Actions  
+- Full observability: Prometheus, Grafana, ELK  
 
----
-
-## Topics I Focus On
-
-Terraform, AWS, EKS, GitHub Actions, Cloud Security  
-CI/CD, Monitoring, Kubernetes, DevOps Career Strategy,
-Machine Learning
+🔗 [View Project](https://github.com/Here2ServeU/monolith-to-microservices-t2s.git)
 
 ---
 
-## Contact
+### CI/CD Template Generator (DevOps SaaS)  
+**(Developer Experience | Pipeline-as-a-Service)**  
+Dynamic UI to generate reusable CI/CD + K8s + Terraform templates.  
+- Security scanning (Trivy, Snyk), Slack/Teams alerts  
+- Stripe integration for paid tiers  
+- Designed for teams and startups looking to ship faster  
 
-- *Email*: [info@transformed2succeed.com](mailto:info@transformed2succeed.com)  
-- *LinkedIn*: [https://www.linkedin.com/in/ready2assist/](https://www.linkedin.com/in/ready2assist/)  
-- *Medium*: [https://medium.com/@here2serveyou](https://medium.com/@here2serveyou)
-- *Book a Call*: [here4you.setmore.com](https://here4you.setmore.com)
-
----
-
-## Project Portfolio
-
-Visit: [https://github.com/Here2ServeU](https://github.com/Here2ServeU)
+*Private repo in progress*
 
 ---
 
-## Articles and Resources
+### AI-Powered SRE Template Generator  
+**(SLOs | Postmortems | Chaos Engineering)**  
+Automating site reliability docs using OpenAI + GitOps principles.  
+- Auto-generate SLOs, RCAs, Chaos experiments  
+- Markdown export + Slack approvals  
+- Runs on EKS backend + Vercel frontend  
 
-**Blog:** [Medium @emmanuelnaweji](https://medium.com/@emmanuelnaweji)  
+*Currently in alpha — open-source version coming soon*
 
 ---
 
-## About
+### Multi-Tenant SaaS Boilerplate  
+**(Infra-as-Code | Micro-SaaS Ready | Stripe + Auth)**  
+Starter kit for SaaS builders with secure, scalable DevOps infrastructure.  
+- Subdomain-per-tenant + RBAC + JWT auth  
+- Terraform for AWS/GCP  
+- Helm charts for rapid deployments  
 
-#### I turn monoliths into microservices and help pastors and professionals transition into tech. From pulpit to pipelines, I build systems that serve people and scale businesses.
+*Work in progress → `multi-tenant-saas`*
+
+---
+
+### Cloud Cost Optimization Dashboard  
+**(FinOps | Multi-Cloud | Infracost + Terraform)**  
+Helping teams reduce AWS, Azure, and GCP waste.  
+- Live dashboard with monthly alerts  
+- Cost Explorer + Infracost API integration  
+- Slack overage alerts + GitHub workflow triggers  
+
+🔗 [View Project](https://github.com/Here2ServeU/finops-aws-azure.git)
+
+---
+
+## Currently Learning
+- AI Infrastructure + ML Pipelines (Kubeflow, MLOps)  
+- Advanced GitOps with ArgoCD + Flux  
+- AWS Control Tower & Landing Zone automation  
+- AI-powered Runbooks & SRE Bot Ops  
+
+---
+
+## Expertise & Focus Areas
+
+**Infrastructure as Code:** Terraform, Pulumi, AWS CDK  
+**Cloud Platforms:** AWS, Azure, GCP  
+**DevOps Toolchain:** GitHub Actions, Jenkins, ArgoCD, Flux  
+**Security & Compliance:** DevSecOps, IAM, Snyk, Prisma Cloud  
+**Observability:** Prometheus, Grafana, Loki, ELK  
+**FinOps:** Infracost, Budgets, Alerts, Optimization  
+**AI + Automation:** OpenAI API, LangChain, Slack Bots
+
+---
+
+## Connect with Me
+
+- 📧 Email: [info@transformed2succeed.com](mailto:info@transformed2succeed.com)  
+- 💼 LinkedIn: [linkedin.com/in/ready2assist](https://www.linkedin.com/in/ready2assist/)  
+- ✍🏽 Medium: [@here2serveyou](https://medium.com/@here2serveyou)  
+- 📅 Book a Call: [here4you.setmore.com](https://here4you.setmore.com)
+
+---
+
+## Explore My Projects
+
+GitHub Portfolio: [github.com/Here2ServeU](https://github.com/Here2ServeU)
+
+---
+
+## About Me
+
+> I turn monoliths into microservices—and help people move from the pulpit to pipelines.  
+> Whether it's mentoring immigrant engineers or helping CTOs scale, I build systems that serve people and solve real-world problems.
+
+---
+
+## Featured Resources
+
+- **30-Day DevOps Career Guide** → DM “TOP 1%” on LinkedIn  
+- **DevSecOps Runbook Generator** → Coming Soon  
+- **Real-world Terraform & Kubernetes Labs** → In Progress
