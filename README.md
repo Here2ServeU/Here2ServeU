@@ -11,7 +11,7 @@ I bring **over 10 years of experience** designing, securing, and scaling cloud i
 - **Observability**: Prometheus, Grafana, Datadog, OpenTelemetry, ELK
 - **Security & Compliance**: DevSecOps, Zero Trust Architecture, Vault, Prisma Cloud
 
-→ Hands-on experience aligning infrastructure and deployments with SOC 2, PCI DSS, HIPAA, FedRAMP, and HITRUST frameworks
+→ Hands-on experience aligning infrastructure and deployments with **SOC 2, PCI DSS, HIPAA, FedRAMP, and HITRUST** frameworks
 
 - **AI/ML Engineering**: Python, LangChain, OpenAI APIs, ML Pipelines, Log Analytics
 
