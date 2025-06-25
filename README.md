@@ -5,15 +5,18 @@
 I bring **over 10 years of experience** designing, securing, and scaling cloud infrastructure across AWS, Azure, and Google Cloud. My work blends automation, observability, AI, and regulatory compliance to help businesses move faster while meeting the highest standards of resilience and governance.
 
 #### Core Expertise:
-	•	**Cloud Platforms**: AWS, Azure, Google Cloud (multi-cloud and hybrid)
-	•	**Infrastructure as Code**: Terraform, Terragrunt, Ansible, Helm
-	•	**CI/CD Automation**: GitHub Actions, Jenkins, GitLab CI, ArgoCD
-	•	**Observability**: Prometheus, Grafana, Datadog, OpenTelemetry, ELK
-	•	**Security & Compliance**: DevSecOps, Zero Trust Architecture, Vault, Prisma Cloud
+- **Cloud Platforms**: AWS, Azure, Google Cloud (multi-cloud and hybrid)
+- **Infrastructure as Code**: Terraform, Terragrunt, Ansible, Helm
+- **CI/CD Automation**: GitHub Actions, Jenkins, GitLab CI, ArgoCD
+- **Observability**: Prometheus, Grafana, Datadog, OpenTelemetry, ELK
+- **Security & Compliance**: DevSecOps, Zero Trust Architecture, Vault, Prisma Cloud
+
 → Hands-on experience aligning infrastructure and deployments with SOC 2, PCI DSS, HIPAA, FedRAMP, and HITRUST frameworks
-	•	**AI/ML Engineering**: Python, LangChain, OpenAI APIs, ML Pipelines, Log Analytics
+
+- **AI/ML Engineering**: Python, LangChain, OpenAI APIs, ML Pipelines, Log Analytics
 
 **I specialize in building developer platforms and automation pipelines that reduce risk, cut costs, and support compliance in highly regulated industries like healthcare and financial services.**
+
 ---
 
 ## Certifications and Tools
