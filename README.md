@@ -19,22 +19,8 @@ I bring **over 10 years of experience** designing, securing, and scaling cloud i
 </p>
 
 <p align="center">
-  <a href="https://github.com/Here2ServeU?tab=repositories" style="
-    display: inline-block;
-    padding: 16px 32px;
-    font-size: 18px;
-    color: white;
-    background-color: #6f42c1;
-    border-radius: 10px;
-    text-decoration: none;
-    font-weight: bold;
-    background-image: url('https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png');
-    background-repeat: no-repeat;
-    background-position: 10px center;
-    background-size: 24px 24px;
-    padding-left: 50px;
-  ">
-    Check Out My Portfolio
+  <a href="https://github.com/Here2ServeU?tab=repositories">
+    <img src="https://img.shields.io/badge/Check%20Out%20My%20Portfolio-6f42c1?style=for-the-badge&logo=github&logoColor=white" alt="Check Out My Portfolio Button">
   </a>
 </p>
 
