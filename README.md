@@ -19,7 +19,7 @@ I bring **over 10 years of experience** designing, securing, and scaling cloud i
 </p>
 
 <p align="center">
-  <a href="[https://your-portfolio-link.com](https://github.com/Here2ServeU?tab=repositories)">
+  <a href="https://github.com/Here2ServeU?tab=repositories">
     <img src="https://img.shields.io/badge/Check%20Out%20My%20Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Check Out My Portfolio Button">
   </a>
 </p>
