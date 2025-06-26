@@ -4,6 +4,12 @@
 
 I bring **over 10 years of experience** designing, securing, and scaling cloud infrastructure across AWS, Azure, and Google Cloud. My work blends automation, observability, AI, and regulatory compliance to help businesses move faster while meeting the highest standards of resilience and governance.
 
+#### 🎥 Welcome Video
+
+[![Watch the video](https://img.youtube.com/vi/MYuLMw1obAc/0.jpg)](https://youtu.be/MYuLMw1obAc)
+
+*Click the image above to watch the welcome video to my GitHub portfolio.*
+
 #### Core Expertise:
 - **Cloud Platforms**: AWS, Azure, Google Cloud (multi-cloud and hybrid)
 - **Infrastructure as Code**: Terraform, Terragrunt, Ansible, Helm
