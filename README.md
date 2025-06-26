@@ -5,10 +5,15 @@
 I bring **over 10 years of experience** designing, securing, and scaling cloud infrastructure across AWS, Azure, and Google Cloud. My work blends automation, observability, AI, and regulatory compliance to help businesses move faster while meeting the highest standards of resilience and governance.
 
 #### 🎥 Welcome Video
+<p align="center">
+  <a href="https://youtu.be/MYuLMw1obAc" target="_blank">
+    <img src="https://img.youtube.com/vi/MYuLMw1obAc/0.jpg" alt="Watch the video" width="600">
+  </a>
+</p>
 
-[![Watch the video](https://img.youtube.com/vi/MYuLMw1obAc/0.jpg)](https://youtu.be/MYuLMw1obAc)
-
-*Click the image above to watch the welcome video to my GitHub portfolio.*
+<p align="center">
+  📌 <em>Click the image above to watch the welcome video to my GitHub portfolio.</em>
+</p>
 
 #### Core Expertise:
 - **Cloud Platforms**: AWS, Azure, Google Cloud (multi-cloud and hybrid)
