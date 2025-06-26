@@ -7,6 +7,7 @@ I bring **over 10 years of experience** designing, securing, and scaling cloud i
 <p align="center">
   <h4>🎥 Welcome Video</h4>
 </p>
+
 <p align="center">
   <a href="https://youtu.be/MYuLMw1obAc" target="_blank">
     <img src="https://img.youtube.com/vi/MYuLMw1obAc/0.jpg" alt="Watch the video" width="600">
