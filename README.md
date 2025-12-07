@@ -2,6 +2,7 @@
 
 ### Bridging the Gap Between AI Research & Cloud Reliability.
 **Ph.D. Candidate (AI/ML) | Cloud & DevOps Solutions Architect | Site Reliability Engineer**
+**[🌐 Visit My Website: emmanuelnaweji.com](https://emmanuelnaweji.com)**
 
 ---
 
@@ -51,6 +52,6 @@ My work integrates **predictive AI** with **deterministic GitOps** to help highl
 * **Consulting & Architecture:** [Book a Free Consultation](https://here4you.setmore.com)
 * **Technical Writing:** [Read my articles on Medium](https://here2serveyou.medium.com/)
 * **Professional Network:** [Connect on LinkedIn](https://linkedin.com/in/ready2assist)
-* **Email:** [emmanuelnt02@gmail.com](mailto:emmanuelnt02@gmail.com)
+* **[🌐 Visit My Website: emmanuelnaweji.com](https://emmanuelnaweji.com)**
 
 *"Let’s turn complex infrastructure challenges into intelligent, automated solutions."*
