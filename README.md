@@ -44,7 +44,7 @@ My work integrates **predictive AI** with **deterministic GitOps** to help highl
 
 * **[Transformed2Succeed (T2S)](https://www.transformed2succeed.com/)**: Bridging the gap between potential and professional success by equipping aspiring engineers with practical Cloud & DevOps skills.
 * **[Kids Teck Inc](https://www.kids-teck.org/)**: Empowering the next generation with early access to technology education and creative problem-solving.
-* **Ministry & Mentorship**: As an ordained minister, I help individuals navigate their personal and spiritual journeys with clarity and purpose.
+* **[Visit My Website](https://www.emmanuelnaweji.com/)**: As an ordained minister, I help individuals navigate their personal and spiritual journeys with clarity and purpose.
 
 ---
 
