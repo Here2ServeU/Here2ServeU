@@ -42,9 +42,10 @@ My work integrates **predictive AI** with **deterministic GitOps** to help highl
 ### The Innovator Ecosystem
 *Beyond code, I am dedicated to education, faith, and digital strategy.*
 
-* **[Transformed2Succeed (T2S)](https://www.transformed2succeed.com/)**: Bridging the gap between potential and professional success by equipping aspiring engineers with practical Cloud & DevOps skills.
-* **[Kids Teck Inc](https://www.kids-teck.org/)**: Empowering the next generation with early access to technology education and creative problem-solving.
-* **[Visit My Website](https://www.emmanuelnaweji.com/)**: As an ordained minister, I help individuals navigate their personal and spiritual journeys with clarity and purpose.
+* **[Transformed2Succeed (T2S)](https://www.emmanuelnaweji.com/t2s))**: Bridging the gap between potential and professional success by equipping aspiring engineers with practical Cloud & DevOps skills.
+* **[Kids Teck Inc](https://www.emmanuelnaweji.com/kids-teck)**: Empowering the next generation with early access to technology education and creative problem-solving.
+* **[The NERP Project](https://www.emmanuelnaweji.com/nerp)**: NERP (Naweji Enterprise Reliability Platform) is an AI-driven, cloud-native platform that automates system reliability, predicts failures, and enables self-healing infrastructure across distributed environments.
+* **[Visit My Website](https://www.emmanuelnaweji.com/)**: I build intelligent systems that solve real problems, serve people, and create lasting impact through technology, discipline, and faith.
 
 ---
 
