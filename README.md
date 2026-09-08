@@ -4,7 +4,7 @@
 
 **Ph.D. Candidate (AI/ML) · Principal Cloud & DevOps Solutions Architect · Site Reliability Engineering Leader**
 
-**[🌐 emmanuelnaweji.com](https://www.emmanuelnaweji.com/)** · **[💼 LinkedIn](https://linkedin.com/in/ready2assist)** · **[✍️ Medium](https://here2serveyou.medium.com/)** · **[📅 Book a Consultation](https://here4you.setmore.com)**
+**[🌐 emmanuelnaweji.com](https://www.emmanuelnaweji.com/)** · **[💼 LinkedIn](https://linkedin.com/in/ready2assist)** · **[✍️ Medium](https://here2serveyou.medium.com/)** · **[📅 Book a Consultation](https://www.emmanuelnaweji.com/contact)**
 
 ---
 
@@ -57,7 +57,6 @@ I invest the same systems-thinking into education, mentorship, and faith-driven 
 
 - **[Transformed2Succeed (T2S)](https://www.emmanuelnaweji.com/t2s)** — Closing the gap between potential and professional success by equipping aspiring engineers with practical Cloud & DevOps skills.
 - **[Kids Teck Inc](https://www.emmanuelnaweji.com/kids-teck)** — Giving the next generation early access to technology education and creative problem-solving.
-- **[The NERP Project](https://www.emmanuelnaweji.com/nerp)** — Naweji Enterprise Reliability Platform: an AI-driven, cloud-native platform automating system reliability and self-healing infrastructure across distributed environments.
 - **[emmanuelnaweji.com](https://www.emmanuelnaweji.com/)** — Where I write about building intelligent systems that solve real problems, serve people, and create lasting impact through technology, discipline, and faith.
 
 ---
@@ -66,7 +65,7 @@ I invest the same systems-thinking into education, mentorship, and faith-driven 
 
 **Open to Principal/Staff Architect, Head of Platform, and Director of SRE conversations.**
 
-- **Consulting & Architecture:** [Book a Free Consultation](https://here4you.setmore.com)
+- **Consulting & Architecture:** [Book a Free Consultation](https://www.emmanuelnaweji.com/contact)
 - **Technical Writing:** [Read my articles on Medium](https://here2serveyou.medium.com/)
 - **Professional Network:** [Connect on LinkedIn](https://linkedin.com/in/ready2assist)
 - **Website:** [emmanuelnaweji.com](https://emmanuelnaweji.com)
