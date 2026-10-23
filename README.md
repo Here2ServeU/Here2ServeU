@@ -1,8 +1,8 @@
 # Hi, I'm Emmanuel Naweji.
 
-### Principal-Level Cloud & DevOps Architect Building Self-Healing, AI-Driven Infrastructure at Enterprise Scale.
+### Senior Cloud & Site Reliability Engineer Building Self-Healing, AI-Driven Infrastructure at Enterprise Scale.
 
-**Ph.D. Candidate (AI/ML) · Principal Cloud & DevOps Solutions Architect · Site Reliability Engineering Leader**
+**Senior Cloud & Site Reliability Engineer · Ph.D. Candidate (AI/ML), National University · Platform, DevSecOps, FinOps & AIOps**
 
 **[🌐 emmanuelnaweji.com](https://www.emmanuelnaweji.com/)** · **[💼 LinkedIn](https://linkedin.com/in/ready2assist)** · **[✍️ Medium](https://here2serveyou.medium.com/)** · **[📅 Book a Consultation](https://www.emmanuelnaweji.com/contact)**
 
@@ -10,17 +10,17 @@
 
 ## What I Bring
 
-I design and operate **autonomous, self-healing infrastructure** that guarantees **99.999% availability** for regulated, high-stakes environments — the kind of reliability finance and healthcare organizations build their compliance posture on.
+I design and operate **autonomous, self-healing infrastructure** that guarantees **99.99% availability** for regulated, high-stakes environments — the kind of reliability finance and healthcare organizations build their compliance posture on.
 
-With **10+ years of experience** architecting, securing, and scaling cloud infrastructure — including engagements at **IBM, Comcast, and Octo** — I combine **Ph.D.-level research in AI/ML for Healthcare** with hands-on platform engineering. I sit at the intersection most architects don't reach: **predictive AI** paired with **deterministic GitOps**, so regulated businesses can move faster *and* pass audit — meeting HIPAA, SOC 2, and FedRAMP standards without slowing down delivery.
+With **10+ years of experience** architecting, securing, and scaling cloud infrastructure — including roles at **IBM and Comcast** — I combine **Ph.D. research (in progress, National University) in AI/ML for Healthcare** with hands-on platform engineering. I sit at the intersection most architects don't reach: **predictive AI** paired with **deterministic GitOps**, so regulated businesses can move faster *and* pass audit — meeting HIPAA, SOC 2, and FedRAMP standards without slowing down delivery.
 
-I'm looking for **Principal/Staff Architect, Head of Platform Engineering, or Director of SRE**–level roles where that combination — deep technical ownership plus AI-driven strategy — moves the needle on reliability, cost, and compliance at the organizational level.
+I'm looking for **Senior Cloud, Site Reliability, and Platform Engineering** roles where that combination — deep technical ownership plus AI-driven strategy — moves the needle on reliability, cost, and compliance at the organizational level.
 
 ---
 
 ## Where I Create Value
 
-- **Reliability at scale** — Design multi-cloud, self-healing systems (AWS, Azure, GCP) engineered for 99.999% uptime, reducing incident frequency and business risk in production environments serving regulated industries.
+- **Reliability at scale** — Design multi-cloud, self-healing systems (AWS, Azure, GCP) engineered for 99.99% uptime, reducing incident frequency and business risk in production environments serving regulated industries.
 - **AI-driven cost & risk reduction** — Build predictive models (LSTM/TCN, LangChain, OpenAI APIs) that anticipate infrastructure failures and cloud spend overruns before they hit the business, turning SRE from reactive to predictive.
 - **Governance without friction** — Architect DevSecOps pipelines and Zero Trust security models that satisfy HIPAA, SOC 2, HITRUST, and FedRAMP — so compliance becomes a byproduct of good architecture, not a tax on velocity.
 - **Applied research → production** — Translate active Ph.D. research in AI/ML for Healthcare into deployable systems, bridging the gap between academic rigor and operational reliability.
@@ -63,7 +63,7 @@ I invest the same systems-thinking into education, mentorship, and faith-driven 
 
 ## Let's Connect
 
-**Open to Principal/Staff Architect, Head of Platform, and Director of SRE conversations.**
+**Open to Senior Cloud, Site Reliability, and Platform Engineering conversations.**
 
 - **Consulting & Architecture:** [Book a Free Consultation](https://www.emmanuelnaweji.com/contact)
 - **Technical Writing:** [Read my articles on Medium](https://here2serveyou.medium.com/)
